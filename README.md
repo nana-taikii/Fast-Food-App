@@ -1,11 +1,13 @@
 # Fast-Food-App
  
-#clone repository (GitHub CLI) gh repo clone nana-taikii/Fast-Food-App
+#clone repository (GitHub CLI) 
+gh repo clone nana-taikii/Fast-Food-App
 
-#clone (HTTPS) git clone https://github.com/nana-taikii/Fast-Food-App.git
+#clone (HTTPS) 
+git clone https://github.com/nana-taikii/Fast-Food-App.git
 
 #using Github Desktop
-1. click "Open with Github Desktop"
+1. Click the repository https://github.com/nana-taikii/Fast-Food-App.git then under "Code" options, click "Open with Github Desktop"
 2. click "Open in Visual Studio Code"
 3. create new terminal
 4. To open in browser, type ionic serve in terminal
